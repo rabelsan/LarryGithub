@@ -2,5 +2,5 @@
 
 Este serie de libros cuentan la historia de un hacker excepcional.
 
-**Ramón Beltrán**
+**Ramón Beltrán**, git fan.
 
